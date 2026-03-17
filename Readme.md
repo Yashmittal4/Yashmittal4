@@ -1,209 +1,149 @@
 <div align="center">
 
-# 👋 Yash Mittal
+# 👋 Hey, I'm Yash Mittal
 
-### Senior Software Engineer | Fintech Specialist | AI/ML Innovator
+### Full Stack Developer | Building Real-World Solutions with AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmittal/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Codewithweb4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashmittal.dev)
 
-*Building scalable fintech infrastructure & AI-powered financial solutions*
+*Solving real problems, one project at a time*
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## 🚀 What I Do
 
-Senior Software Engineer with **1.5+ years** of specialized experience in **fintech and payment systems**. Expert in designing and implementing high-throughput, mission-critical financial applications processing millions of transactions. Proven track record of integrating complex payment gateways, building AI-driven automation workflows, and delivering enterprise-grade solutions under strict regulatory compliance.
+I build **full-stack applications** that people actually use. From **payment integrations** to **AI-powered automation**, I love creating solutions that make businesses grow and users' lives easier.
 
-**Current Focus:** AI-powered financial intelligence systems, payment orchestration, and real-time transaction processing.
+🏆 **10+ Hackathon Wins** | 💻 **200+ Projects Built** | 🚀 **Helping 15+ Businesses Grow Online**
 
----
-
-## 🏢 Experience Highlights
-
-### **Fintech Software Engineer** | Enterprise Financial Technology Company
-*2023 - Present | Building the future of digital payments*
-
-**Key Achievements:**
-- 🏦 **Payment Gateway Integration:** Architected and integrated 5+ payment gateways (Pine Labs, Paytm, Razorpay, PhonePe, etc.) processing **₹10+ Cr daily transactions**
-- ⚡ **High-Performance APIs:** Built Spring Boot microservices handling **50K+ TPS** with 99.9% uptime
-- 🔐 **Security & Compliance:** Implemented PCI-DSS compliant payment flows with end-to-end encryption
-- 🤖 **AI Automation:** Developed RAG-based AI models for fraud detection and transaction anomaly analysis
-- 🧪 **Quality Assurance:** Established Cypress automation testing suite with 95% code coverage
-- 📡 **gRPC Services:** Designed high-speed inter-service communication reducing latency by 60%
-
-**Technologies:** Spring Boot, gRPC, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS
+**Currently:** Working on fintech applications & AI agents that solve real-world problems.
 
 ---
 
-## 🛠️ Technical Expertise
+## 💼 Experience & Skills
 
-### **Backend & Microservices**
+### **Software Engineer** | Fintech Domain
+*2023 - Present*
+
+**What I've Built:**
+- 💳 **Payment Integrations:** Integrated Cashfree, Razorpay, and Pine Labs in production applications
+- 🤖 **AI/ML Systems:** Built RAG models and multi-agent AI systems for automation
+- ⚡ **Backend Services:** Spring Boot microservices with gRPC for high-performance APIs
+- 🧪 **Testing Automation:** Cypress test suites for payment workflows
+- 🚀 **Production Apps:** Built and deployed applications that real users depend on daily
+
+**Tech Stack:** Spring Boot | Node.js | React | Python | PostgreSQL | MongoDB | Redis | Kafka | Docker | AWS
+
+---
+
+## 🛠️ Technologies I Work With
+
+**Backend & APIs**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Databases & Caching**
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**AI/ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **AI/ML & Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Models-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-
-### **Payment Gateway Integration**
-![Pine Labs](https://img.shields.io/badge/Pine_Labs-0052CC?style=for-the-badge&logo=payment&logoColor=white)
-![Paytm](https://img.shields.io/badge/Paytm-00BAF2?style=for-the-badge&logo=paytm&logoColor=white)
+**Payment Gateways**
+![Cashfree](https://img.shields.io/badge/Cashfree-0052CC?style=for-the-badge&logo=payment&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Pine Labs](https://img.shields.io/badge/Pine_Labs-0052CC?style=for-the-badge&logo=payment&logoColor=white)
 
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### **DevOps & Cloud**
+**DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **Testing & Quality**
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **Message Queues & Streaming**
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I'm Proud Of
 
-### 🤖 **DukaanIQ - Multi-Agent AI for SMB Retailers**
-*AI-powered business intelligence platform for small merchants*
+### 🤖 **DukaanIQ - AI for Small Retailers**
+*Multi-agent AI system helping kirana stores manage inventory, udhari (credit), and business intelligence*
 
-- Built 6-agent AI architecture (Inventory, Credit Recovery, Demand Forecasting, Peer Learning)
-- Integrated with Paytm ecosystem for payment processing and merchant analytics
-- Reduced inventory losses by 65% and improved udhari recovery by 40%
-- Mobile-first PWA with Hindi/English conversational interface
+- 6 specialized AI agents working together (Inventory, Credit Recovery, Demand Forecasting, Peer Learning)
+- Mobile-first PWA with Hindi/English support (because that's who actually uses it!)
+- Integrated Paytm ecosystem for payments
+- Built for Paytm Build for India Hackathon 2026
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Google Gemini AI, Multi-Agent Architecture
-
-**Impact:** Helping 15M+ small retailers save ₹8,000/month through AI-driven insights
+**Tech Stack:** React | Node.js | Google Gemini | MongoDB | Multi-Agent AI
 
 ---
 
-### 💳 **Payment Orchestration Platform** *(Enterprise - Confidential)*
-*Unified payment processing across multiple gateways*
+### 🤖 **CartIQ - Smart Shopping Assistant**
+*AI-powered e-commerce assistant with behavioral analysis*
 
-- Designed microservices architecture handling 100K+ daily transactions
-- Implemented intelligent routing for optimal payment success rates
-- Built retry mechanism reducing failed transactions by 35%
-- Real-time settlement reconciliation system
+- Conversational AI using Google Gemini for natural shopping experience
+- Real-time price comparison across multiple e-commerce sites
+- Integrated Pine Labs payment gateway
+- Behavioral prediction for personalized recommendations
 
-**Tech Stack:** Spring Boot, gRPC, PostgreSQL, Redis, Kafka
-
----
-
-### 🤖 **FinanceIQ - RAG-Based Financial Advisor** *(Enterprise - Confidential)*
-*AI-powered financial intelligence system*
-
-- Developed RAG (Retrieval-Augmented Generation) model for financial query resolution
-- Automated compliance document analysis using NLP
-- Reduced manual review time by 70%
-- Integrated with internal knowledge base for real-time insights
-
-**Tech Stack:** Python, LangChain, Vector DB, FastAPI
+**Tech Stack:** React | Node.js | Google Gemini AI | Pine Labs | Puppeteer
 
 ---
 
-### 🤖 **CartIQ - AI-Powered Shopping Assistant**
-*Multi-agent AI system for intelligent e-commerce*
+### 💳 **Payment Integration Projects**
+*Real production applications with integrated payment gateways*
 
-- Built conversational AI shopping assistant using Google Gemini
-- Implemented behavioral analysis agent for purchase prediction
-- Integrated Pine Labs payment gateway for seamless checkout
-- Real-time cart synchronization and price comparison
+- Integrated Cashfree, Razorpay, and Pine Labs in multiple projects
+- Built secure payment flows with webhook handling
+- Real-time payment status tracking and reconciliation
+- Currently being used by real businesses
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Google Gemini AI, Pine Labs API
+**Tech Stack:** Spring Boot | Node.js | PostgreSQL | Payment Gateway APIs
 
 ---
 
-### 🧪 **Automated Testing Framework** *(Enterprise - Confidential)*
-*End-to-end testing automation for payment flows*
+### 🤖 **RAG-Based AI Systems**
+*Building intelligent systems that actually understand context*
 
-- Built comprehensive Cypress testing suite for payment workflows
-- Automated regression testing across 50+ payment scenarios
-- Achieved 95% code coverage with 200+ automated test cases
-- Reduced manual testing time by 80%
+- Developed RAG (Retrieval-Augmented Generation) models for various use cases
+- Document processing and automated analysis
+- Context-aware responses using vector databases
+- Workflow automation using AI agents
 
-**Tech Stack:** Cypress, TypeScript, CI/CD, Docker
+**Tech Stack:** Python | LangChain | Vector DB | Google Gemini
 
 ---
 
 ### 🎵 **Tune Unity**
-*Global music collaboration platform*
+*Music collaboration platform connecting musicians globally*
 
 - Real-time audio collaboration using WebRTC
-- User authentication and project management
-- Cloud storage for audio files
+- Project management and cloud storage
+- User authentication and social features
 
-**Tech Stack:** React, Node.js, WebRTC, AWS S3
-
----
-
-## 🏆 Key Accomplishments
-
-```
-📊 Transaction Volume Handled    → ₹1000+ Cr processed
-⚡ API Performance               → 50K+ TPS with <100ms latency
-🔐 Security Compliance           → PCI-DSS Level 1 compliant systems
-🤖 AI Models Deployed            → 5+ production RAG/ML models
-🧪 Test Automation               → 95% code coverage achieved
-🚀 System Uptime                 → 99.9% SLA maintained
-💰 Cost Optimization             → 40% infrastructure cost reduction
-```
+**Tech Stack:** React | Node.js | WebRTC | AWS S3
 
 ---
 
-## 📚 Domain Expertise
+## 🏆 Highlights
 
-### **Fintech & Payments**
-- Payment gateway integration & orchestration
-- Transaction processing & settlement reconciliation
-- PCI-DSS compliance & security standards
-- Fraud detection & risk management
-- Digital wallet systems
-- UPI, IMPS, NEFT payment rails
-
-### **AI/ML Engineering**
-- RAG (Retrieval-Augmented Generation) models
-- Multi-agent AI systems
-- NLP for document processing
-- Anomaly detection systems
-- Predictive analytics
-- AI automation workflows
-
-### **Enterprise Architecture**
-- Microservices design patterns
-- Event-driven architecture
-- High-availability systems
-- Distributed systems
-- API design & versioning
-- gRPC & RESTful services
+```
+🏆 10+ Hackathon Wins          💻 200+ Projects Built
+🚀 15+ Businesses Helped       💳 Payment Gateway Expert
+🤖 AI/ML Enthusiast           ⚡ Full Stack Developer
+```
 
 ---
 
@@ -221,28 +161,15 @@ Senior Software Engineer with **1.5+ years** of specialized experience in **fint
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Working On
 
-```typescript
-const currentlyWorking = {
-  role: "Senior Software Engineer - Fintech",
-  focus: [
-    "Building DukaanIQ - Multi-agent AI system for SMB retailers",
-    "Payment orchestration & fraud prevention systems",
-    "RAG-based AI models for financial intelligence",
-    "Scalable microservices architecture"
-  ],
-  exploring: [
-    "LLM fine-tuning for financial domain",
-    "Real-time payment anomaly detection",
-    "Blockchain-based settlement systems"
-  ],
-  openTo: [
-    "Fintech innovations",
-    "AI/ML collaboration",
-    "Payment infrastructure projects",
-    "Hackathons & competitions"
-  ]
+```javascript
+const currentFocus = {
+  project: "DukaanIQ - AI for small retailers (Paytm Hackathon 2026)",
+  learning: "Multi-agent AI systems & LLM fine-tuning",
+  building: "Payment integrations & fintech solutions",
+  helping: "15+ businesses grow with tech solutions",
+  openTo: "Hackathons, collaborations, and solving real problems"
 };
 ```
 
@@ -259,18 +186,18 @@ I'm always interested in discussing **fintech innovations**, **payment systems**
 
 ---
 
-## 💡 Fun Facts
+## 💡 About Me
 
 ```python
 def yash_mittal():
     return {
-        "code": ["Java", "JavaScript", "Python", "TypeScript"],
-        "architecture": ["Microservices", "Event-Driven", "gRPC"],
-        "specialization": "Fintech & Payment Systems",
-        "passion": "Building AI-powered financial solutions",
-        "challenge": "Processing millions of transactions with zero downtime",
-        "fun_fact": "Integrated 5 payment gateways without breaking production 😎",
-        "hackathon": "Building DukaanIQ for Paytm Build for India 2026 🚀"
+        "loves": "Solving real problems with code",
+        "builds": "Full-stack apps that people actually use",
+        "specialty": "Fintech & AI/ML",
+        "achievement": "Won 10+ hackathons, built 200+ projects",
+        "helping": "15+ businesses grow online",
+        "current_mission": "Building DukaanIQ for Paytm Hackathon 2026 🚀",
+        "fun_fact": "Integrated 3 payment gateways in production ✌️"
     }
 ```
 
@@ -278,32 +205,14 @@ def yash_mittal():
 
 <div align="center">
 
-### 🌟 "Building the future of digital payments, one transaction at a time" 🌟
+### 🌟 "Solving real problems, one project at a time" 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yashmittal4&color=blueviolet&style=for-the-badge)
 
-**⭐ If you find my work interesting, star my repositories!**
-
-</div>
-
 ---
 
-## 🔒 Note on Private Projects
+### 🏆 Currently building DukaanIQ for Paytm Build for India AI Hackathon 2026
 
-Many of my most impactful projects are **confidential enterprise systems** developed for production fintech applications. These include:
-- High-volume payment processing platforms
-- AI-powered fraud detection systems
-- Real-time settlement reconciliation engines
-- Automated compliance monitoring tools
-
-*For detailed discussions about my work experience, feel free to connect via LinkedIn.*
-
----
-
-<div align="center">
-
-**💼 Open to exciting opportunities in fintech, payment systems, and AI/ML domains**
-
-### 🏆 Currently participating in Paytm Build for India AI Hackathon 2026
+**Let's connect and build something amazing together! ⭐**
 
 </div>
