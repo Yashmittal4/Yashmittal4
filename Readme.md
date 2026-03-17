@@ -4,7 +4,8 @@
 
 ### Full Stack Developer | Building Real-World Solutions with AI/ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmittal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mittal-605337251)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.buildwithyash.online)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Codewithweb4)
 
 *Solving real problems, one project at a time*
@@ -15,11 +16,11 @@
 
 ## 🚀 What I Do
 
-I build **full-stack applications** that people actually use. From **payment integrations** to **AI-powered automation**, I love creating solutions that make businesses grow and users' lives easier.
+I build **full-stack applications** that people actually use. From **payment integrations** to **AI-powered solutions for social impact**, I love creating tech that makes a real difference.
 
-🏆 **10+ Hackathon Wins** | 💻 **200+ Projects Built** | 🚀 **Helping 15+ Businesses Grow Online**
+🏆 **10+ Hackathon Wins (Including Government Hackathons)** | 💻 **200+ Projects Built** | 🚀 **Helping 15+ Businesses Grow Online**
 
-**Currently:** Working on fintech applications & AI agents that solve real-world problems.
+**Currently:** Working on fintech applications & AI-driven solutions for real-world problems.
 
 ---
 
@@ -78,15 +79,18 @@ I build **full-stack applications** that people actually use. From **payment int
 
 ## 🚀 Projects I'm Proud Of
 
-### 🤖 **DukaanIQ - AI for Small Retailers**
-*Multi-agent AI system helping kirana stores manage inventory, udhari (credit), and business intelligence*
+### 🌾 **Stubble Mart - Solving Stubble Burning Problem**
+*Government Hackathon Winner - Tackling Air Pollution through Tech & Collaboration*
 
-- 6 specialized AI agents working together (Inventory, Credit Recovery, Demand Forecasting, Peer Learning)
-- Mobile-first PWA with Hindi/English support (because that's who actually uses it!)
-- Integrated Paytm ecosystem for payments
-- Built for Paytm Build for India Hackathon 2026
+- Built a comprehensive platform to solve the stubble burning crisis (Parali Jalana)
+- Connected farmers with industries that can reuse agricultural waste
+- Implemented various collaboration strategies and marketing approaches
+- Multi-stakeholder platform bringing together farmers, industries, and government
+- **Won Government Hackathon** for social impact and innovation
 
-**Tech Stack:** React | Node.js | Google Gemini | MongoDB | Multi-Agent AI
+**Tech Stack:** Full Stack Web Development | AI/ML | Multi-Platform Integration
+
+**Impact:** Addressing one of India's biggest environmental challenges through technology
 
 ---
 
@@ -165,11 +169,12 @@ I build **full-stack applications** that people actually use. From **payment int
 
 ```javascript
 const currentFocus = {
-  project: "DukaanIQ - AI for small retailers (Paytm Hackathon 2026)",
+  building: "Fintech applications & AI-powered solutions",
   learning: "Multi-agent AI systems & LLM fine-tuning",
-  building: "Payment integrations & fintech solutions",
+  expertise: "Payment integrations (Cashfree, Razorpay, Pine Labs)",
   helping: "15+ businesses grow with tech solutions",
-  openTo: "Hackathons, collaborations, and solving real problems"
+  passion: "Solving real-world problems through technology",
+  openTo: "Hackathons, collaborations, and innovative projects"
 };
 ```
 
@@ -177,11 +182,11 @@ const currentFocus = {
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing **fintech innovations**, **payment systems**, and **AI/ML applications** in financial services.
+I'm always interested in discussing **tech innovations**, **AI/ML solutions**, and **building products that solve real problems**.
 
-- 💼 **LinkedIn:** [linkedin.com/in/yashmittal](https://www.linkedin.com/in/yashmittal/)
+- 💼 **LinkedIn:** [linkedin.com/in/yash-mittal-605337251](https://www.linkedin.com/in/yash-mittal-605337251)
+- 🌐 **Portfolio:** [buildwithyash.online](https://www.buildwithyash.online)
 - 📧 **Email:** yashmittal4949@gmail.com
-- 🌐 **Portfolio:** [yashmittal.dev](https://yashmittal.dev)
 - 📱 **Instagram:** [@Codewithweb4](https://instagram.com/Codewithweb4)
 
 ---
@@ -193,11 +198,13 @@ def yash_mittal():
     return {
         "loves": "Solving real problems with code",
         "builds": "Full-stack apps that people actually use",
-        "specialty": "Fintech & AI/ML",
-        "achievement": "Won 10+ hackathons, built 200+ projects",
+        "specialty": "Fintech, AI/ML & Social Impact Tech",
+        "achievement": "Won 10+ hackathons (including Government Hackathon)",
+        "impact": "Built Stubble Mart - solving stubble burning crisis 🌾",
         "helping": "15+ businesses grow online",
-        "current_mission": "Building DukaanIQ for Paytm Hackathon 2026 🚀",
-        "fun_fact": "Integrated 3 payment gateways in production ✌️"
+        "expertise": "Payment integrations in production apps",
+        "projects": "200+ projects and counting",
+        "fun_fact": "Won Government Hackathon for environmental impact ✌️"
     }
 ```
 
@@ -211,8 +218,8 @@ def yash_mittal():
 
 ---
 
-### 🏆 Currently building DukaanIQ for Paytm Build for India AI Hackathon 2026
+**Building tech that makes a real difference | Open to collaborations & hackathons ⭐**
 
-**Let's connect and build something amazing together! ⭐**
+**Let's connect and create something impactful together!**
 
 </div>
